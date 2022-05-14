@@ -10,7 +10,7 @@
 	<p>password:12345</p>
 	<h1 style="text-align: center;">Let's talk about the project's fetures:</h1><br><br>
 	<h6>1. Dashboard</h6>
-	<p>After loging the application user will see all the expenses with total amount. There is a search system user can see all expenditures desire between two dates if user want.</p>
+	<p>After loging the application user will see all the expenses with total amount. There is a search system user can see all expenditures between two dates if user want.</p>
 	<h6>2. Admin Menu</h6>
 	<p>User will see all the admins also a "Add New Admin" form. User can add, update and delete admin. There are all required validations of add and update forms.</p>
 	<h6>3. Expense Categoty Menu</h6>
