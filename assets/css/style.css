@@ -1,0 +1,7 @@
+.cnd_dtl ul{
+    list-style-type: none;
+    font-size: 25px;
+}
+.ui-datepicker-calendar {
+    display: none;
+    }
